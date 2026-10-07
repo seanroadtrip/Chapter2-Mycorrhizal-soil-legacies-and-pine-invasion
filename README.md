@@ -110,7 +110,3 @@ and the archived version of this repository.
 ## Licence
 
  CC BY 4.0 for the data and MIT for the code.
-
-## Contact
-
-Sean Davis, School of Biological Sciences, University of Canterbury. [seanroadtrip@gmail.com]
